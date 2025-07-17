@@ -26,19 +26,28 @@ I'm a passionate AI and Data Science enthusiast currently pursuing my B.Tech. I 
 
 ## 🛠️ Projects
 
-### Cryptocurrency Price Prediction
+### BuzzBrief - AI-Powered News Platform[https://github.com/Anubhavnatani04/BuzzBrief]
+> Python, HuggungFace, PostgreSQL, FastAPI, Vite.js  
+- Automated Multi-Source Scraping
+- Robust ETL Pipeline
+- High-Performance Backend
+- AI-Powered Summarization
+- Text-to-Speech Playback
+- Responsive React Frontend
+
+### Cryptocurrency Price Prediction[https://github.com/Anubhavnatani04/crypto_price_prediction]
 > Python, APIs, Scikit-learn  
 - Predicts cryptocurrency prices for the next 30 days with 90% accuracy  
 - Reduced processing time by 40%  
 - Features visualizations of trends and correlations
 
-### Football Player Goal Analysis
+### Football Player Goal Analysis[https://github.com/Anubhavnatani04/Lionel-Messi-goal-analysis]
 > Power BI, MS Excel, SQL, Python  
 - Created dashboards to analyze player performance  
 - Improved data accuracy by 20% through Python preprocessing  
 - Used SQL for dynamic charts and insights
 
-### Network Anomaly Detection System
+### Network Anomaly Detection System[https://github.com/Anubhavnatani04/Anomaly-Detection-in-Cybersecurity]
 > Python, TensorFlow, Scikit-learn  
 - Real-time anomaly detection using deep learning  
 - Reduced false positives by 65%  
