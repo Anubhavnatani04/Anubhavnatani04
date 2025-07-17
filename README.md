@@ -41,17 +41,17 @@ I'm a passionate AI and Data Science enthusiast currently pursuing my B.Tech. I 
 - Reduced processing time by 40%  
 - Features visualizations of trends and correlations
 
-### [Football Player Goal Analysis](https://github.com/Anubhavnatani04/Lionel-Messi-goal-analysis)
-> Power BI, MS Excel, SQL, Python  
-- Created dashboards to analyze player performance  
-- Improved data accuracy by 20% through Python preprocessing  
-- Used SQL for dynamic charts and insights
-
 ### [Network Anomaly Detection System](https://github.com/Anubhavnatani04/Anomaly-Detection-in-Cybersecurity)
 > Python, TensorFlow, Scikit-learn  
 - Real-time anomaly detection using deep learning  
 - Reduced false positives by 65%  
 - Includes custom monitoring scripts for network security
+
+### [Football Player Goal Analysis](https://github.com/Anubhavnatani04/Lionel-Messi-goal-analysis)
+> Power BI, MS Excel, SQL, Python  
+- Created dashboards to analyze player performance  
+- Improved data accuracy by 20% through Python preprocessing  
+- Used SQL for dynamic charts and insights
 
 ---
 
